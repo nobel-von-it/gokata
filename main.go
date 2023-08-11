@@ -6,5 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(files.ExpMatterpp(2, 1, 2))
+	fmt.Println(files.MultiTable(6))
+
 }
