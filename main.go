@@ -6,6 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(files.MultiTable(6))
-
+	fmt.Println(files.RepDots("hello... i am.. "))
 }
